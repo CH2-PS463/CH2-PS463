@@ -4,7 +4,7 @@
 <h1 align="center">SatriaSayur</h1>
 <h2 align="center">Conservation, Education and Donation in One Application for Endangered Animals in Indonesia</h2>
 
-<h3 align="center">Bangkit 2022 Capstone Team: C22-PS088</h3>
+<h3 align="center">Bangkit 2022 Capstone Team: CH2-PS463</h3>
 
 #### Members
 | Name                  | ID            | Path                | Github                                              |
