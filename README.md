@@ -2,7 +2,7 @@
   <img align="center" width="400" src="/profile/img/landscape-01-01_small.png" />
 </p>
 <h1 align="center">SatriaSayur</h1>
-<h2 align="center">provides real-time nutritional analysis of vegetables and recommends a suitable recipe according to the vegetables</h2>
+<h2 align="center">Provides real-time nutritional analysis of vegetables and recommends a suitable recipe according to the vegetables</h2>
 
 <h3 align="center">Bangkit 2022 Capstone Team: CH2-PS463</h3>
 
