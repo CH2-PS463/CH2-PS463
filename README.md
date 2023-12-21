@@ -1,5 +1,5 @@
 <p align="center">
-  <img align="center" width="400" src="https://github.com/CH2-PS463/CH2-PS463/blob/main/LogoSatriaSayur%201.png" />
+  <img align="center" width="400" src="CH2-PS463/blob/main/LogoSatriaSayur%201.png" />
 </p>
 <h1 align="center">SatriaSayur</h1>
 <h2 align="center">Provides real-time nutritional analysis of vegetables and recommends a suitable recipe according to the vegetables</h2>
