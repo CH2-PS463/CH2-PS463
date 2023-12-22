@@ -16,4 +16,4 @@
 | Indra Rusyana         | C313BSY4348    | Cloud Computing    |
 | Muhammad Anas Aiman   | A313BSY2989    | Mobile Development |
 
-<p>Our application uses image detection to detect vegetables and then uses API to display the results on mobile development</p>
+<h3>Our application uses image detection to detect vegetables and then uses API to display the results on mobile development<h3>
